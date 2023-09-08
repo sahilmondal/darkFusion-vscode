@@ -7,6 +7,9 @@
 <p align="center">
   A minimal, dark theme for <a href="https://dark-fusion.vercel.app/">VS Code</a>.
 </p>
+<h3 align="center">
+  Design & Developed by Sahil.
+</h3>
 <!-- <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/brittanychiang.halcyon-vscode?color=brightgreen" />

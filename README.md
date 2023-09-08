@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Dark Fusion Logo" src="https://raw.githubusercontent.com/sahilmondal/darkFusion-vscode/main/images/logo.png" width="100" />
+  <img alt="Dark Fusion Logo" src="https://raw.githubusercontent.com/sahilmondal/darkFusion-vscode/main/images/Logo.png" width="100" />
 </p>
 <h1 align="center">
   Dark Fusion Theme for VS Code

@@ -1,0 +1,57 @@
+{
+  "name": "darkFusion-vscode",
+  "displayName": "Dark Fusion",
+  "description": "A dark theme for VS Code.",
+  "version": "0.2.25",
+  "publisher": "sahilmondal",
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Sahil Mondal",
+    "email": "work.sahilmondal@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahilmondal/darkFusion-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/bchiang7/darkFusion-vscode/issues",
+    "email": "work.sahilmondal@outlook.com"
+  },
+  "homepage": "https://github.com/sahilmondal/darkFusion-vscode/main/README.md",
+  "galleryBanner": {
+    "color": "#171c28",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Dark Fusion",
+    "Dark-Fusion"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkFusion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkFusion-purple.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/eslint-parser": "^7.22.5",
+    "@upstatement/eslint-config": "^2.0.0",
+    "@upstatement/prettier-config": "^1.1.0",
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "^2.8.8",
+    "vsce": "^2.15.0"
+  }
+}

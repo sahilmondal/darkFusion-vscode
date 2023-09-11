@@ -1,10 +1,10 @@
 {
-  "name": "darkFusion-vscode",
-  "displayName": "Dark Fusion",
+  "name": "dark-fusion-theme",
+  "displayName": "Dark Fusion Theme",
   "description": "A dark theme for VS Code.",
-  "version": "0.2.25",
+  "version": "1.0.0",
   "publisher": "sahilmondal",
-  "icon": "images/logo.png",
+  "icon": "images/Logo.png",
   "author": {
     "name": "Sahil Mondal",
     "email": "work.sahilmondal@outlook.com"
@@ -14,7 +14,7 @@
     "url": "https://github.com/sahilmondal/darkFusion-vscode"
   },
   "bugs": {
-    "url": "https://github.com/bchiang7/darkFusion-vscode/issues",
+    "url": "https://github.com/sahilmondal/darkFusion-vscode/issues",
     "email": "work.sahilmondal@outlook.com"
   },
   "homepage": "https://github.com/sahilmondal/darkFusion-vscode/main/README.md",
@@ -32,8 +32,10 @@
     "Themes",
     "Dark Theme",
     "color-theme",
-    "Dark Fusion",
-    "Dark-Fusion"
+    "Dark Fusion darkfusion",
+    "Dark-Fusion",
+    "Dark",
+    "vscode"
   ],
   "contributes": {
     "themes": [
